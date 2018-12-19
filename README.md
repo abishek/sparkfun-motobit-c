@@ -1,2 +1,2 @@
 # sparkfun-motobit-c
-A C/C++ implementation of controlling the the Sparkfun motobit
+A C/C++ implementation of controlling the the Sparkfun motobit. The actual hardware is from here: https://www.sparkfun.com/products/14213. They have an makecode package in github here: https://github.com/sparkfun/pxt-moto-bit . I wanted to use this alongside BT and keep running out of memory. Actually, trying to use BT with makecode seems to always run out of memory. So I am trying to port the code base to C/C++ so that I can try to program the microbit in a more traditional manner and hopefully have enough space to do useful things with it :-)
